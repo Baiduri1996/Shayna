@@ -6,10 +6,10 @@
         <div class="container">
           <div class="ht-left">
             <div class="mail-service">
-              <i class="fa fa-envelope"></i> hello.shayna@gmail.com
+              <i class="fa fa-envelope"></i> Mbaiduri15@gmail.com
             </div>
             <div class="phone-service">
-              <i class="fa fa-phone"></i> +628 22081996
+              <i class="fa fa-phone"></i> +62 898-705-7055
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@
 </template>
 
 <script>
-export default {
-  name: "HeaderShayna",
-};
+  export default {
+    name: 'HeaderShayna',
+  };
 </script>
